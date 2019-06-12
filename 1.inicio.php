@@ -2,7 +2,7 @@
 <html lang="pt-pt">
 
   <head>
-    <title>Fottball Lovers</title>
+    <title>Fottball Lovers :)</title>
     <meta charset="utf-8">
   </head>
   <body>
