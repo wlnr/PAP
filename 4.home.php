@@ -12,12 +12,21 @@ if(@$_SESSION["username"]) {
   <title>Fottball Lovers</title>
   <meta charset="utf-8">
   <style>
+
+html, body {
+        background-image: linear-gradient(45deg, black, white);
+        color: #8B0000;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 200;
+        height: 100vh;
+        margin: 0;
+      }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: white;
 }
 
 .center {
@@ -39,7 +48,7 @@ li:last-child {
 
 li a{
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;

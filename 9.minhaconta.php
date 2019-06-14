@@ -41,7 +41,7 @@ password: <?php echo $password; ?> <br /> <br />
 
 <?php
 if(@$_GET['action'] == "cp") {
-    echo"<center> <p> Alterações </p> </center>";
+    echo"<center> <h1> ALTERAÇÕES </h1> </center>";
 ?>
 <html>
 
